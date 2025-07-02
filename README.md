@@ -1,6 +1,6 @@
-# Fullstack Authentication
+# API Authentication
 
-Updated fullstack authentication using Spring Security and Thymeleaf.
+Updated API authentication using Spring Security.
 
 - Gradle 8.14.2
 - Java 24
